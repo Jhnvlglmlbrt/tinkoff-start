@@ -1,1 +1,1 @@
-# tinkoff-start
+# Tinkoff-start тестовые задания на стажировку
